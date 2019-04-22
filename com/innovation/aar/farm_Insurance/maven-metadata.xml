@@ -3,11 +3,11 @@
   <groupId>com.innovation.aar</groupId>
   <artifactId>farm_Insurance</artifactId>
   <versioning>
-    <release>1.963</release>
+    <release>1.962</release>
     <versions>
       <version>1.962</version>
       <version>1.963</version>
     </versions>
-    <lastUpdated>20190420080449</lastUpdated>
+    <lastUpdated>20190422093309</lastUpdated>
   </versioning>
 </metadata>
